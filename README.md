@@ -1,2 +1,2 @@
-# MycroGrad
+# MyTorch
 Neural network training framework
